@@ -32,7 +32,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+- My computer seems to be slow with these types of things so sometimes it would take around 5 minutes to launch the app.
+- I keep getting errors when I tried to use commands to pull, push, or change anything on GitHub because my username and password weren't being accepted. I was able to do these action by pulling and pushing from the Android Studio window.
+- Quite a few times when I was launching the app the Emulator wouldn't load and kept me on the white loading screen, but after trying multiple times it would eventually load. 
+- I struggled a bit when I was writing the 'readLines' and 'writeLines' functions on Android Studio because it didn't recognized them. I had to look up for help online and on the comments for the 4th video to get it to work eventually. 
+
 
 ## License
 
